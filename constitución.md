@@ -142,3 +142,9 @@ La organización llevará un registro de miembros colaboradores con todos los da
 
 ### Artículo 19.- RESPONSABILIDAD DE LOS MIEMBROS FRENTE A TERCEROS.
 Con excepción a sus aportaciones, los miembros no tienen responsabilidad personal alguna y en consecuencia no serán responsables por las operaciones, actos y contratos que celebre la organización con terceros.
+
+### Artículo 20.- La presente Constitución puede ser adicionada o reformada.
+Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere el consenso de las dos terceras partes de los miembros colaboradores presentes, acuerden las reformas o adiciones, y estas sean aprobadas en el sistema de votaciónes de la organización.
+
+### Artículo 21.- Esta Constitución no perderá su fuerza y vigor, aun cuando por alguna rebelión se interrumpa su observancia.
+En caso de que por cualquier trastorno público, se establezca un gobierno contrario a los principios que ella sanciona, tan luego como los miembros recobren su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán excluidos de la organización, así los que hubieren figurado en el gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
