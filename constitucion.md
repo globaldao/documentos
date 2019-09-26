@@ -1,9 +1,13 @@
 # CONSTITUCIÓN DE LA ORGANIZACIÓN AUTÓNOMA DESCENTRALIZADA GLOBAL
+
 ## DENOMINACIÓN, DOMICILIO, NACIONALIDAD Y DURACIÓN.
 
 ### Artículo 1o.- DENOMINACIÓN
+
 La denominación de la organización es GLOBAL, seguida de las palabras DECENTRALIZED AUTONOMOUS ORGANIZATION o de las iniciales, D. A. O.
+
 ### Artículo 2o.- OBJETO
+
 La organización tiene por objeto:
 
 1. Procurar y defender los derechos humanos reconocidos por la organización.
@@ -39,20 +43,25 @@ La organización tiene por objeto:
 31. Realizar todo los actos jurídicos que se requieran y celebrar todos los contratos o convenios necesarios para el cumplimiento de los objetivos antes indicados. La organización en sus diversas actividades no podrá perseguir ningún fin de lucro; sin embargo, la asociación podrá otorgar, suscribir, girar, endosar, avalar y negociar con toda clase de títulos de crédito. Este artículo es de carácter irrevocable.
 
 ### Artículo 3o.- CLASE DE PERSONA
+
 La organización es una figura autónoma, descentralizada, libre y soberana.
 
 ### Artículo 4o.- DOMICILIO
+
 Por su naturaleza descentralizada la organización no contará con un domicilio físico, sin perjuicio de establecer oficinas, en cualquier lugar.
 
 ### Artículo 5o.- FECHA DE CONSTITUCIÓN
+
 20 de junio del 2019.
 
 ### Artículo 6o.- ADMISIÓN DE MIEMBROS
+
 La organización es descentralizada y global y por tanto se rige por esta constitución. Todo persona que en el acto de la constitución, o en cualquier tiempo ulterior adquiera un interés o participación social en la organización, se considerará por ese simple hecho como participante activo, respecto de uno y otra, y se entenderá que conviene en no invocar la protección de su Gobierno, bajo la pena en caso de faltar a su convenio, de perder dicho interés o participación en beneficio de la organización.
 
 ## PATRIMONIO SOCIAL
 
 ### Artículo 7o.- PATRIMONIO
+
 El patrimonio de la organización estará formado por:
 
 1. Aportaciones en efectivo o en especie efectuados por los participantes al constituir la organización.
@@ -65,6 +74,7 @@ El patrimonio de la organización estará formado por:
 ## DE LOS MIEMBROS
 
 ### Artículo 8o.- MIEMBROS
+
 Son miembros las personas físicas o morales, las que concurren a la constitución de esta organización, así como toda persona física o moral que en lo sucesivo desee adquirir dicho carácter, mediante:
 
 1. La aportación de numerario, bienes o servicios, cuya propiedad transfieren a la organización irrevocablemente.
@@ -77,6 +87,7 @@ Son miembros las personas físicas o morales, las que concurren a la constituci�
 ## REQUISITOS PARA SER MIEMBRO COLABORADOR DE LA ORGANIZACIÓN
 
 ### Artículo 9o.- ADMISIÓN DE MIEMBROS COLABORADORES
+
 Para ser miembro colaborador se requiere:
 
 1. Gozar de estimación general como persona honorable y prudente o haber demostrado, en otra forma, interés en los asuntos sociales en general o de la organización en particular;
@@ -87,6 +98,7 @@ Para ser miembro colaborador se requiere:
 ## EXCLUSIÓN O SEPARACIÓN DE MIEMBROS.
 
 ### Artículo 10o.- PÉRDIDA DE LA CALIDAD DE MIEMBRO.
+
 La calidad de miembro se pierde:
 
 1. Por muerte o incapacidad del mismo;
@@ -96,10 +108,12 @@ La calidad de miembro se pierde:
 5. Por exclusión acordada en el sistema de votación de propuestas.
 
 ### Artículo 11o.- AVISO DE SEPARACIÓN.
+
 Los miembros y colaboradores podrán solicitar su separación voluntaria, previo aviso dado con dos meses de anticipación.
 
 ### Artículo 12o.- EXCLUSIÓN DE MIEMBROS.
-Los miembros sólo pueden ser excluidos de la organización  por acuerdo por el voto del 30% de los miembros, cuando a juicio de algún miembro:
+
+Los miembros sólo pueden ser excluidos de la organización por acuerdo por el voto del 30% de los miembros, cuando a juicio de algún miembro:
 
 1. Denigren o injurien públicamente a la organización o a alguna de sus obras;
 2. Cometan actos u observen conducta contrarias a la moral o a las buenas costumbres; y
@@ -110,14 +124,17 @@ Los miembros sólo pueden ser excluidos de la organización  por acuerdo por el 
 7. Por comisión de actos fraudulentos y desleales contra la organización por infracción grave reiterada del pacto social y de las disposiciones que rigen.
 
 ### Artículo 13o.- EXCLUSIÓN PROVISIONAL DE MIEMBROS.
+
 Las proposiciones sobre exclusión de miembros deben ser presentadas por dos miembros al sistema de votación, el cual, encontrándolas fundadas, acordará provisionalmente la exclusión, a reserva de que su acuerdo sea sometido a la consideración del sistema de votación más próxima, a fin de que ésta lo confirme o revoque.
 
 ### Artículo 14o.- PÉRDIDA DE APORTACIONES EN FAVOR DE LA ORGANIZACIÓN.
+
 Ni los asociados ni ninguna otra persona física o moral tiene derecho, en ningún caso, a que les sean devueltas las aportaciones o donativos que hayan entregado a la organización. En caso de que un miembro pierda tal carácter por separación, por exclusión, por muerte o por cualquier otro motivo, pierde en favor de la organización el importe de su participación y deja de tener los derechos y obligaciones que estos estatutos le confieren e imponen.
 
 ## OBLIGACIONES Y DERECHOS DE LOS ASOCIADOS.
 
 ### Artículo 15o.- OBLIGACIONES DE LOS MIEMBROS.
+
 Son obligaciones de los miembros:
 
 1. A cubrir tanto las aportaciones ordinarias como las extraordinarias que acuerde en el sistema de votación.
@@ -127,6 +144,7 @@ Son obligaciones de los miembros:
 5. Acatar estos estatutos, los reglamentos aprobados por el sistema de votación.
 
 ### Artículo 16o.- DERECHOS DE LOS MIEMBROS.
+
 Son derechos de los miembros:
 
 1. Tener voz y voto en el sistema de votación y ejercitar en ellas todos los derechos que a los componentes de dichas propuestas reconocen estos estatutos;
@@ -135,16 +153,22 @@ Son derechos de los miembros:
 4. Ser partícipe y beneficiario de los programas de desarrollo social, desarrollo económico, de educación y de salud de la organización.
 
 ### Artículo 17o.- INTRASFERIBILIDAD DE LA CALIDAD DE MIEMBRO.
+
 La calidad de miembro es intransferible por lo que no podrá transmitirse entre vivos o por causa de muerte. La calidad de asociado es inembargable por lo mismo, ningún acreedor de los miembros podrá embargar sus derechos ni inmiscuirse en la organización bajo pretexto alguno. Sólo la organización puede admitir o excluir miembros de acuerdo con lo estipulado en los presentes estatutos.
 
 ### Artículo 18o.- REGISTRO DE MIEMBROS COLABORADORES.
+
 La organización llevará un registro de miembros colaboradores con todos los datos relativos a admisión, separación, exclusión y cargos de los mismos.
 
 ### Artículo 19.- RESPONSABILIDAD DE LOS MIEMBROS FRENTE A TERCEROS.
+
 Con excepción a sus aportaciones, los miembros no tienen responsabilidad personal alguna y en consecuencia no serán responsables por las operaciones, actos y contratos que celebre la organización con terceros.
 
 ### Artículo 20.- La presente Constitución puede ser adicionada o reformada.
+
 Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere el consenso de las dos terceras partes de los miembros colaboradores presentes, acuerden las reformas o adiciones, y estas sean aprobadas en el sistema de votaciónes de la organización.
 
 ### Artículo 21.- Esta Constitución no perderá su fuerza y vigor, aun cuando por alguna rebelión se interrumpa su observancia.
+
 En caso de que por cualquier trastorno público, se establezca un gobierno contrario a los principios que ella sanciona, tan luego como los miembros recobren su libertad, se restablecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán excluidos de la organización, así los que hubieren figurado en el gobierno emanado de la rebelión, como los que hubieren cooperado a ésta.
+
