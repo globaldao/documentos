@@ -29,3 +29,18 @@ Todas estas colaboraciones son elegibles para ser compensadas por la DAO mediant
 * [ ] Para comprender el estado actual de Global DAO, incluido cómo funciona la compensación, lee [Fase Cero: activación del sistema económico y financiero de Global DAO](https://medium.com/global-dao/fase-cero-29a8c4e3269f).
 * [ ] Para inspirarte sobre cómo puede ser trabajar en una organización no jerárquica \(y lo que requiere de todos los involucrados\), lee el [Manual del empleado de Valve](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf).
 
+## Has un trabajo valioso y se compensado
+
+ Bien, ya tienes todo preparado y estás listo para trabajar. Esto es lo que debes hacer a continuación. 
+
+1. Encuentra alguna necesidad o un problema en algún lugar de Global DAO que \(a\) deba solucionarse y \(b\) coincida con tus habilidades e intereses. Examina las recompensas abiertas, pregunte acerca de lo que otros colaboradores piensan que necesita ser arreglado. Porque, si bien no necesitas el permiso de nadie y puedes trabajar en lo que quieras, querrás saber por adelantado si a alguien más le va a importar el trabajo que haces.
+2. Trabaja para solucionar ese problema o cubrir esa necesidad. Envía tu propuesta para revisión.
+3. Solicita que otros revisen tu trabajo. La mejor manera de hacerlo es escribir buenos comentarios de confirmación y descripciones de solicitud / problema que expliquen claramente el problema o necesidad que tu trabajo pretende resolver, por qué es importante y por qué lo solucionaste de la manera en que lo hiziste. Haz que los demás revisen tu trabajo lo más fácil posible. Haz que sea un placer para otros revisar tu trabajo.
+4. Mejora tu trabajo con la retroalimentación recibida en las revisiones hasta que sea aceptado.
+5. Repetir pasos 1 al 4.
+6. Envía una solicitud de compensación al final del mes, enlace a tu trabajo terminado y solicita la cantidad de POINT que crees que vale la pena para Global DAO y sus miembros.
+
+## Las revisiones son para todos
+
+ Si quieres ser realmente popular aquí, no solo envíes tu propio trabajo, sino que también dediqua tiempo a revisar el trabajo de otros. Y recuerda: las revisiones son elegibles para una compensación al igual que cualquier otra contribución. 
+
