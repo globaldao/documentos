@@ -14,7 +14,7 @@ Todas estas colaboraciones son elegibles para ser compensadas por la DAO mediant
 
 ## Checklist
 
-* [ ] Lee la constitución de Global DAO para conocer sus objetivos y reglamentos.
+* [ ] Lee la [Constitución de Global DAO](https://juantellez.gitbook.io/globaldao/constitucion) para conocer sus objetivos y reglamentos.
 * [ ] Unete a nuestro servidor en [Discord](https://discord.gg/nZPs7JC)
 * [ ] Presentate en el canal [\#general](https://discord.gg/nZPs7JC) y di un poco sobre tus aptitudes e intereses. Esto ayudará a otros a encaminarte en la dirección correcta.
 * [ ] Solicita tu ingreso al rol de colaboradores en Discord. Esto permitirá a los miembros de la comunidad saber que eres un miembro colaborador para coordinar esfuerzos contigo o solicitar tu colaboración.
